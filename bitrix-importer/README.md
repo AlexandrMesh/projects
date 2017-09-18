@@ -1,4 +1,4 @@
-# projects
+# Bitrix Importer
 
 Импортер товаров из JSON файла в Bitrix
 Указывается путь к JSON файлу с товарами
